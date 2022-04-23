@@ -1,8 +1,9 @@
 {
     "anytime" : [
         "Hi there",
-	    	"What a great day",
-	    	"Welcome!"
+	 "What a great day",
+	 "Welcome!",
+	    "Let's have some fun"
     ],
     "morning" : [
         "Good morning, sunshine!",
@@ -18,6 +19,6 @@
         "You made someone smile today, I know it.",
         "You are making a difference.",
         "The day was better for your efforts.",
-		    "What a night it's going to be!"
+	"What a night it's going to be!"
     ]
 }
